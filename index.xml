@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>https://yaoyn.github.io/</link>
+      <atom:link href="https://yaoyn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Mar 2022 23:15:16 +0000</lastBuildDate>
+    <image>
+      <url>https://yaoyn.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>https://yaoyn.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Optimization of membrane technologies for water purification </title>
+      <link>https://yaoyn.github.io/project/optimization-of-membrane-technologies-for-water-purification/</link>
+      <pubDate>Mon, 07 Mar 2022 23:15:16 +0000</pubDate>
+      <guid>https://yaoyn.github.io/project/optimization-of-membrane-technologies-for-water-purification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of energy storage in batteries</title>
+      <link>https://yaoyn.github.io/project/example/</link>
+      <pubDate>Mon, 07 Mar 2022 23:14:23 +0000</pubDate>
+      <guid>https://yaoyn.github.io/project/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFD-accelerated bioreactor optimization: reducing the hydrodynamic parameter space</title>
+      <link>https://yaoyn.github.io/publication/yao-2022-du/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/publication/yao-2022-du/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Competing flow and collision effects in a monodispersed liquid--solid fluidized bed at a moderate Archimedes number</title>
+      <link>https://yaoyn.github.io/publication/yao-2021-rg/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/publication/yao-2021-rg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A collocated immersed boundary method for particle-resolved simulations of polydispersed, particle-laden flows</title>
+      <link>https://yaoyn.github.io/publication/yao-2021-fj/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/publication/yao-2021-fj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of the properties of segregated layers in a bidispersed fluidized bed to those of a monodispersed fluidized bed</title>
+      <link>https://yaoyn.github.io/publication/yao-2021-ky/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/publication/yao-2021-ky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of particle clustering on hindered settling in high-concentration particle suspensions</title>
+      <link>https://yaoyn.github.io/publication/yao-2021-ex/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/publication/yao-2021-ex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Nitritation of Anaerobic Digester Centrate Using Dual Stressors and Timed Alkali Additions</title>
+      <link>https://yaoyn.github.io/publication/yao-2021-xo/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/publication/yao-2021-xo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of nitrogen-containing coagulants on the nitritation/denitrification of anaerobic digester centrate</title>
+      <link>https://yaoyn.github.io/publication/wang-2020-kp/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/publication/wang-2020-kp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitrogen removal as nitrous oxide for energy recovery: Increased process stability and high nitrous yields at short hydraulic residence times</title>
+      <link>https://yaoyn.github.io/publication/wang-2020-nu/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/publication/wang-2020-nu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bio-entrapped membrane reactor and salt marsh sediment membrane bioreactor for the treatment of pharmaceutical wastewater: treatment performance and microbial communities</title>
+      <link>https://yaoyn.github.io/publication/ng-2014-ol/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/publication/ng-2014-ol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yaoyn.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
